@@ -8,7 +8,10 @@ will result in a one-day ban
 ||4: Think before you send	||
 ||5: Don't lie			||
 ||6: No gollum content		||
-||7: There's only one (more)    ||
+||7: Maintain a general attitude
+||  of competence (can be faked)||
+||8: No "stickers   ||
+||9: There's only one (more)    ||
 ||rule of syop.			||
 ||	Don't talk about syop	||
 ==================================
