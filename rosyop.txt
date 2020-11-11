@@ -23,6 +23,9 @@ If you have anything to add,
 just tell me.
 
 Prezzy can declare national holidays
+Prezzy can apoint a new prezzy
+Prezzy can request a place on the cuncil
+Prezzy can bring requests to the cuncil
 They cannot Prosecute people or enforce in any other way
 
 The council can do anything if they agree on it
