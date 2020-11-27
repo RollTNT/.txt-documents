@@ -5,14 +5,11 @@ SYOP CONSTITUTION
 Breaking any of the following rule(s)
 will result in a one-day ban
 ==================================
-||1: Think about what people  ||
-||   mean before you        ||
-||   contradict them        ||
-||2: Language (no bad words)	||
-||3: Be kind			||
-||4: Think before you send	||
-||5: Don't lie			||
-||6: No gollum content		||
+||1: Language (no bad words)	||
+||2: Be kind			||
+||3: Think before you send	||
+||4: Don't lie			||
+||5: No gollum content		||
 ==================================
 That's all I could think of.
 If you have anything to add,
