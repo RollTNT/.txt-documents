@@ -5,9 +5,9 @@ SYOP CONSTITUTION
 Breaking any of the following rule(s)
 will result in a one-day ban
 ==================================
-||1: Think about what people||
-||   mean before you    ||
-||   contradict them    ||
+||1: Think about what people  ||
+||   mean before you        ||
+||   contradict them        ||
 ||2: Language (no bad words)	||
 ||3: Be kind			||
 ||4: Think before you send	||
